@@ -76,7 +76,7 @@ namespace Calculs
                             }
                             catch
                             {
-                                Console.WriteLine("Saisissez un entier");
+                                Console.WriteLine("Saisissez un entierss");
                             }
                         }
                         // comparaison avec la réponse
